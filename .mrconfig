@@ -4,3 +4,6 @@ jobs = 5
 
 include = cat ~/.config/mr/config.d/*
 
+
+[solarized-mate]
+checkout = git clone 'https://github.com/oz123/solarized-mate-terminal.git' 'solarized-mate'
