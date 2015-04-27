@@ -7,3 +7,6 @@ include = cat ~/.config/mr/config.d/*
 
 [solarized-mate]
 checkout = git clone 'https://github.com/oz123/solarized-mate-terminal.git' 'solarized-mate'
+
+[solarized]
+checkout = git clone 'https://github.com/brantb/solarized.git' 'solarized'
