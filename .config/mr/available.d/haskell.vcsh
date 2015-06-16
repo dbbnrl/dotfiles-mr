@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/haskell.git]
+checkout = vcsh clone git@github.com:dbbnrl/dotfiles-haskell.git haskell
