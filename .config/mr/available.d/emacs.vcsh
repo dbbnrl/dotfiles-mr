@@ -1,0 +1,5 @@
+[$HOME/.config/vcsh/repo.d/emacs.git]
+checkout = vcsh clone git@github.com:dbbnrl/dotfiles-emacs.git emacs
+
+[$HOME/.emacs.d]
+checkout = git clone 'https://github.com/syl20bnr/spacemacs' '.emacs.d'
