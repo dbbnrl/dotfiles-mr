@@ -1,2 +1,8 @@
 [$HOME/.config/vcsh/repo.d/xmonad.git]
 checkout = vcsh clone git@github.com:dbbnrl/dotfiles-xmonad.git xmonad
+
+[$HOME/.xmonad/src/xmonad]
+checkout = darcs get http://code.haskell.org/xmonad
+
+[$HOME/.xmonad/src/XMonadContrib]
+checkout = darcs get http://code.haskell.org/XMonadContrib
