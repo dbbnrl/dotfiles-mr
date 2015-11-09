@@ -1,2 +1,9 @@
 [$HOME/.config/vcsh/repo.d/haskell.git]
 checkout = vcsh clone git@github.com:dbbnrl/dotfiles-haskell.git haskell
+
+[$HOME/.ghc/src/ghci-ng]
+checkout = git clone 'https://github.com/chrisdone/ghci-ng.git' 'ghci-ng'
+
+[$HOME/.ghc/src/ghc-mod]
+checkout = git clone 'https://github.com/kazu-yamamoto/ghc-mod.git' 'ghc-mod'
+
